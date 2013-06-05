@@ -1,0 +1,25 @@
+{
+  "name": "sidetogglemenu",
+  "title": "Responsive Side Toggle Menu",
+  "description": "Side Toggle Menu lets you add a side bar menu to your page that slides in from the left or right edge of the browser window. It supports two types of unveiling- either by nudging the rest of the page and making room for itself, or overlaying the page (and not displacing its neighbours). CSS3 transitions are used to power the animation, ensuring a smooth visual experience even on low powered mobile devices. And speaking of mobile devices, the menus are adaptive in that it automatically switches to a basic drop down menu using a toggle button at the top of the page when the user's device width is 480px or less (configurable). Finally, the menus are dismissed when the user clicks anywhere on the page that's outside the menus, or when clicking on a link inside the menu.",
+  "keywords": ["menu", "dropdown", "bar", "navigation", "side"],
+  "version": "1.0.0",
+  "author": {
+    "name": "Dynamic Drive",
+    "email" : "ddrivehelp@gmail.com",
+		"url": "http://www.dynamicdrive.com"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "http://www.dynamicdrive.com/notice.htm"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "homepage": "http://www.dynamicdrive.com/dynamicindex1/sidetogglemenu.htm",
+  "docs": "http://www.dynamicdrive.com/dynamicindex1/sidetogglemenu.htm",
+  "demo": "http://www.dynamicdrive.com/dynamicindex1/sidetogglemenu.htm",
+  "download": "http://www.dynamicdrive.com/dynamicindex1/sidetogglemenu.htm"
+}

@@ -1,0 +1,15 @@
+<div id="togglemenu2" class="sidetogglemenu">
+<ul>
+<li><a href="http://www.dynamicdrive.com/">Dynamic Drive 2</a></li>
+<li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+<li><a href="http://www.dynamicdrive.com/forums/">Forums</a></li>
+<li><a href="http://tools.dynamicdrive.com/imageoptimizer/">Gif Optimizer</a></li>
+<li><a href="http://tools.dynamicdrive.com/favicon/">Favicon Creator</a></li>
+<li><a href="http://tools.dynamicdrive.com/button/">Button Maker</a></li>
+</ul>
+
+<p style="padding:10px; color: lightyellow">
+This menu's markup is defined entirely inside an external file and fetched via Ajax, including its outermost container. With the default setting <code>pushcontent: false</code>, the menu overlays part of the page when it's revealed, and doesn't displace any of the page's content.
+</p>
+
+</div>
